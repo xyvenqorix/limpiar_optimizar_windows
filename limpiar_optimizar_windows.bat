@@ -29,9 +29,10 @@ echo  4. Limpiar SOLO archivos temporales
 echo  5. Comprobacion de disco (chkdsk /scan)
 echo  6. Comprobacion de integridad del sistema (SFC)
 echo  7. Ejecutar todo (excepto SFC)
+echo  8. Acerca de
 echo  0. Salir
 echo ===============================================================
-set /p opcion=Selecciona una opcion [0-7]: 
+set /p opcion=Selecciona una opcion [0-8]: 
 
 if "%opcion%"=="1" goto limpieza_rapida
 if "%opcion%"=="2" goto limpieza_profunda
@@ -40,6 +41,7 @@ if "%opcion%"=="4" goto limpiar_temporales
 if "%opcion%"=="5" goto check_disco
 if "%opcion%"=="6" goto sfc_scan
 if "%opcion%"=="7" goto todo_sin_sfc
+if "%opcion%"=="8" goto acerca_de
 if "%opcion%"=="0" goto fin
 
 echo Opcion invalida.
@@ -109,24 +111,36 @@ chkdsk C: /scan
 call :resumen
 goto volver_menu
 
+:acerca_de
+call :banner "ACERCA DE"
+echo Aplicacion: Limpiador y Optimizador de Windows
+echo Creador: xyvenqorix
+echo WhatsApp: (+53)56639178
+echo Correo: rodolfo.vercel@gmail.com
+call :resumen
+goto volver_menu
+
 :limpiar_temporales_core
 echo.
-echo [1/5] Eliminando temporales de usuario...
+echo [1/6] Eliminando temporales de usuario...
 del /f /s /q "%temp%\*" >nul 2>&1
 for /d %%D in ("%temp%\*") do rd /s /q "%%D" >nul 2>&1
 
-echo [2/5] Eliminando temporales de Windows...
+echo [2/6] Eliminando temporales de Windows...
 del /f /s /q "C:\Windows\Temp\*" >nul 2>&1
 for /d %%D in ("C:\Windows\Temp\*") do rd /s /q "%%D" >nul 2>&1
 
-echo [3/5] Limpiando Prefetch (acelera limpieza, no desfragmenta)...
+echo [3/6] Limpiando Prefetch (acelera limpieza, no desfragmenta)...
 del /f /s /q "C:\Windows\Prefetch\*" >nul 2>&1
 
-echo [4/5] Limpiando cache de miniaturas...
+echo [4/6] Limpiando cache de miniaturas...
 del /f /s /q "%LocalAppData%\Microsoft\Windows\Explorer\thumbcache_*.db" >nul 2>&1
 
-echo [5/5] Limpiando logs temporales comunes...
+echo [5/6] Limpiando logs temporales comunes...
 del /f /s /q "C:\Windows\Logs\CBS\*.log" >nul 2>&1
+
+echo [6/6] Ejecutando Liberador de espacio (cleanmgr /sagerun)...
+cleanmgr /sagerun
 exit /b
 
 :limpiar_run_core
