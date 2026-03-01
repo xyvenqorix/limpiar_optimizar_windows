@@ -2,7 +2,7 @@
 setlocal EnableExtensions EnableDelayedExpansion
 chcp 65001 >nul
 
-title Limpiador y Optimizador de Windows (sin desfragmentar)
+title Limpiador y Optimizador de Windows (xyvenqorix)
 color 0A
 
 :: Verificar privilegios de administrador
