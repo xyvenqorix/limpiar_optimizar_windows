@@ -51,7 +51,7 @@ Interfaz simple, rápida y sin configuraciones complicadas.»
 
 IMPORTANTE
 
-«[!IMPORTANT]
+> [!WARNING]
 Este programa debe ejecutarse como Administrador para que todas las funciones trabajen correctamente.»
 
 «[!TIP]
