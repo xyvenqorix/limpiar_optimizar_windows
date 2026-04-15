@@ -42,7 +42,7 @@ Optimización completa automática.
 > [!IMPORTANT]
 Interfaz simple, rápida y sin configuraciones complicadas.»
 
-1. Ejecuta el archivo ".exe"
+1. Ejecuta el archivo ".bat"
 2. Selecciona una opción
 3. Espera a que finalice
 4. (Opcional) Reinicia el sistema
