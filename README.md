@@ -61,7 +61,7 @@ Sin permisos de administrador, algunas opciones pueden no funcionar correctament
 
 🛡️ SEGURIDAD
 
-«[!NOTE]
+> [!CAUTIO]
 Esta herramienta no es dañina ni representa riesgo para el sistema.»
 
 ✔ Usa funciones internas de Windows
