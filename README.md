@@ -54,7 +54,7 @@ IMPORTANTE
 > [!WARNING]
 Este programa debe ejecutarse como Administrador para que todas las funciones trabajen correctamente.»
 
-> [!CAUTIO]
+> [!NOTE]
 Sin permisos de administrador, algunas opciones pueden no funcionar correctamente.»
 
 ---
