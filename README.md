@@ -73,7 +73,7 @@ Esta herramienta no es dañina ni representa riesgo para el sistema.»
 
 💡 RECOMENDACIÓN
 
-«[!TIP]
+> [!TIP]
 Ejecuta la limpieza profunda periódicamente para mantener el sistema optimizado.»
 
 ---
