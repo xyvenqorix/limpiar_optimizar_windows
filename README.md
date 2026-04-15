@@ -9,7 +9,7 @@ Herramienta diseñada para mejorar el rendimiento de Windows mediante limpieza y
 
 ⚙️ FUNCIONES DISPONIBLES
 
-> [TIP]
+> [!TIP]
 Usa la opción 7 si quieres optimizar todo rápidamente.»
 
 1. Limpieza rápida
