@@ -2,7 +2,7 @@
 
 ---
 
-«[!NOTE]
+> [!NOTE]
 Herramienta diseñada para mejorar el rendimiento de Windows mediante limpieza y optimización segura del sistema.»
 
 ---
