@@ -1,61 +1,79 @@
-[!NOTE]
+🧰 LIMPIADOR Y OPTIMIZADOR DE WINDOWS
 
-7,386
+---
 
-2
+«[!NOTE]
+Herramienta diseñada para mejorar el rendimiento de Windows mediante limpieza y optimización segura del sistema.»
 
->
+---
 
-Aqui tienes una nota especial
+⚙️ FUNCIONES DISPONIBLES
 
-3
+«[!TIP]
+Usa la opción 7 si quieres optimizar todo rápidamente.»
 
->
+1. Limpieza rápida
+Elimina temporales, historial de Ejecutar (Win + R), recientes y papelera.
 
-4
+2. Limpieza profunda
+Incluye limpieza avanzada del sistema y caché de Windows Update.
 
-[TIP].
+3. Limpiar historial Ejecutar
+Borra únicamente el historial del comando Win + R.
 
-22
+4. Limpiar archivos temporales
+Elimina archivos basura acumulados.
 
-5
+5. Comprobación de disco
+Analiza errores con "chkdsk /scan".
 
->
+6. Comprobación del sistema
+Repara archivos dañados con "sfc /scannow".
 
-Aqui tienes un consejo
+7. Ejecutar todo (excepto SFC)
+Optimización completa automática.
 
-6
+0. Salir
 
-7
+---
 
-> [!IMPORTANT]
+🚀 USO DEL PROGRAMA
 
-153
+«[!NOTE]
+Interfaz simple, rápida y sin configuraciones complicadas.»
 
-8
+1. Ejecuta el archivo ".exe"
+2. Selecciona una opción
+3. Espera a que finalice
+4. (Opcional) Reinicia el sistema
 
->
+---
 
-Aqui tienes un consejo
+IMPORTANTE
 
-9
+«[!IMPORTANT]
+Este programa debe ejecutarse como Administrador para que todas las funciones trabajen correctamente.»
 
-10
+«[!TIP]
+Sin permisos de administrador, algunas opciones pueden no funcionar correctamente.»
 
-> [!WARNING]
+---
 
-991
+🛡️ SEGURIDAD
 
-11
+«[!NOTE]
+Esta herramienta no es dañina ni representa riesgo para el sistema.»
 
->
+✔ Usa funciones internas de Windows
+✔ No modifica archivos críticos sin control
+✔ No instala software adicional
+✔ No accede a datos personales
 
-Aqui tienes un consejo
+---
 
-12
+💡 RECOMENDACIÓN
 
-I
+«[!TIP]
+Ejecuta la limpieza profunda periódicamente para mantener el sistema optimizado.»
 
-13
-
-> [!IMPORTANT]
+---
