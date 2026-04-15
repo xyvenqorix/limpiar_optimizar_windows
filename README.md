@@ -39,7 +39,7 @@ Optimización completa automática.
 
 🚀 USO DEL PROGRAMA
 
-«[!NOTE]
+> [!IMPORTANT]
 Interfaz simple, rápida y sin configuraciones complicadas.»
 
 1. Ejecuta el archivo ".exe"
