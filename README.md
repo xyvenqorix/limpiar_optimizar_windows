@@ -1,5 +1,7 @@
 # 🧰 Limpiador y Optimizador de Windows
 
+<a href="https://github.com/xyvenqorix/limpiar_optimizar_windows/releases/tag/v2.0OptumusWindows">Releases</a>
+
 > Herramienta diseñada para mejorar el rendimiento de Windows mediante limpieza y optimización segura del sistema.
 
 ![License](https://img.shields.io/badge/License-MIT-green)
