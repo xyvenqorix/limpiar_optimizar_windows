@@ -1,4 +1,7 @@
 # 🧰 Limpiador y Optimizador de Windows
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
 
 ### Captura 
 
@@ -8,9 +11,6 @@
 
 > Herramienta diseñada para mejorar el rendimiento de Windows mediante limpieza y optimización segura del sistema.
 
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
 
 ## 📖 Descripción
 
