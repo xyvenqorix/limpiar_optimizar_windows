@@ -1,5 +1,9 @@
 # 🧰 Limpiador y Optimizador de Windows
 
+### Captura 
+
+<p align="center"><img src="https://i.ibb.co/NdjmPXLQ/2026-08-14-212953.png"></p>
+
 <a href="https://github.com/xyvenqorix/limpiar_optimizar_windows/releases/tag/v2.0OptumusWindows">Releases</a>
 
 > Herramienta diseñada para mejorar el rendimiento de Windows mediante limpieza y optimización segura del sistema.
