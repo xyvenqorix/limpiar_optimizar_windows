@@ -1,4 +1,9 @@
 # 🧰 Limpiador y Optimizador de Windows
+## 📖 Descripción
+
+**Limpiador y Optimizador de Windows** es una herramienta creada para mejorar el rendimiento del sistema mediante limpieza, mantenimiento y optimización utilizando funciones internas de Windows.
+
+Permite eliminar archivos innecesarios, limpiar historiales, realizar comprobaciones del sistema y ejecutar procesos de optimización de manera sencilla.
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
@@ -10,13 +15,6 @@
 <a href="https://github.com/xyvenqorix/limpiar_optimizar_windows/releases/tag/v2.0OptumusWindows">Releases</a>
 
 > Herramienta diseñada para mejorar el rendimiento de Windows mediante limpieza y optimización segura del sistema.
-
-
-## 📖 Descripción
-
-**Limpiador y Optimizador de Windows** es una herramienta creada para mejorar el rendimiento del sistema mediante limpieza, mantenimiento y optimización utilizando funciones internas de Windows.
-
-Permite eliminar archivos innecesarios, limpiar historiales, realizar comprobaciones del sistema y ejecutar procesos de optimización de manera sencilla.
 
 ## ✨ Características
 
